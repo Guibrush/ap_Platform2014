@@ -1,0 +1,5 @@
+[16-Nov-2014 13:20:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home1/dream/public_html/activatupyme-plataforma/framework/DB/DBHelpers.php on line 25
+[16-Nov-2014 13:21:26 America/Chicago] PHP Fatal error:  Function name must be a string in /home1/dream/public_html/activatupyme-plataforma/framework/forms/comunidadFormValidation.php on line 41
+[16-Nov-2014 13:24:20 America/Chicago] PHP Fatal error:  Function name must be a string in /home1/dream/public_html/activatupyme-plataforma/framework/forms/comunidadFormValidation.php on line 43
+[16-Nov-2014 13:26:07 America/Chicago] PHP Fatal error:  Function name must be a string in /home1/dream/public_html/activatupyme-plataforma/framework/forms/comunidadFormValidation.php on line 41
+[16-Nov-2014 13:27:56 America/Chicago] PHP Fatal error:  Function name must be a string in /home1/dream/public_html/activatupyme-plataforma/framework/forms/comunidadFormValidation.php on line 41
